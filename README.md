@@ -8,4 +8,5 @@ Might want to improve the library in the future to have convolutional layers to 
 
 To compile, use
 - gcc arena.c value.c matrix.c read_ubyte.c main.c -o model.exe
+
 or whichever compiler you use.
